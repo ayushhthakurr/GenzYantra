@@ -20,6 +20,8 @@ GenzYantra is an assistant app designed for the new generation, combining the wo
 
 4. GenzYantra will process your voice input and respond accordingly, providing information or generating images as requested.
 
+![Finished App](https://github.com/ayushhthakurr/Images/genzyantra.png)
+
 ## Special Note: Internal Error
 
 In the event that GenzYantra encounters an internal error and displays the message "An internal error has occurred," please follow the steps below to resolve the issue:
