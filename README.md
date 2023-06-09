@@ -1,4 +1,4 @@
-# genzyantra
+# GenzYantra
 
 GenzYantra is an assistant app designed for the new generation, combining the words "Genz" (representing the new generation) and "Yantra" (a Hindi word meaning device). It serves as a powerful sound assistant that allows users to interact by speaking and giving commands. The app utilizes the OpenAI API to leverage the capabilities of ChatGPT and DALL-E, enabling it to provide information, generate images, and perform various tasks.
 
